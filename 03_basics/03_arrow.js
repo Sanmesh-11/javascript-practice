@@ -10,7 +10,7 @@
 // }
 
 // user.welcomeMessage()
-// user.username = "sam"
+// user.username = "sam"  // context means a value
 // user.welcomeMessage()
 
 // console.log(this);
@@ -27,7 +27,8 @@
 //     console.log(this.username);
 // }
 
-// const chai =  () => {
+//   ****Arrow Function*****
+// const chai =  () => {  
 //     let username = "hitesh"
 //     console.log(this);
 // }  // ****arrow function****
